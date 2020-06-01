@@ -268,6 +268,10 @@
 body {
   font-family: 'Nunito';
   letter-spacing: 0.0625em;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
 }
 
 a {
